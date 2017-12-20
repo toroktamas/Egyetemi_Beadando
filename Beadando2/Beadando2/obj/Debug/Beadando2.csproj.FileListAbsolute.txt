@@ -1,0 +1,7 @@
+E:\Beadando2\Beadando2\obj\Debug\Beadando2.csprojResolveAssemblyReference.cache
+E:\Beadando2\Beadando2\obj\Debug\Beadando2.csproj.CoreCompileInputs.cache
+E:\Beadando2\Beadando2\bin\Debug\Beadando2.exe.config
+E:\Beadando2\Beadando2\bin\Debug\Beadando2.exe
+E:\Beadando2\Beadando2\bin\Debug\Beadando2.pdb
+E:\Beadando2\Beadando2\obj\Debug\Beadando2.exe
+E:\Beadando2\Beadando2\obj\Debug\Beadando2.pdb

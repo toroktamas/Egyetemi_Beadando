@@ -1,0 +1,7 @@
+﻿Rozsa;nagy;2;2017. 11. 30. 0:00:00;true
+Viola;kicsi;3;2017. 11. 30. 0:00:00;false
+Fa;sok;1;2017. 11. 30. 0:00:00;true
+Krizantin;kicsi;3;2017. 11. 30. 0:00:00;false
+Tulipan;nagy;1;2017. 11. 30. 0:00:00;false
+Fal;nagy;8;2017. 11. 30. 0:00:00;true
+Bazarozsa;nagy;2;2017. 11. 30. 0:00:00;true
